@@ -1,7 +1,7 @@
 ### Hi there, I'm [Adityatprtma][website] 👋
 
 [![Website](https://img.shields.io/website?label=adityatprtma.com&style=flat-square&up_message=UP&url=https%3A%2F%2Flinktr.ee%2FAdityatprtma)](https://linktr.ee/Adityatprtma)
-[![youtube1](https://img.shields.io/website?label=adityatprtma&logo=youtube&logoColor=%23ff0000%20&style=for-the-badge&up_message=12k&url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCr19zDWnZgm-aRRaL0LPIjA%2Ffeatured%3Fsub_confirmation%3D1%3Fsub_confirmation%3D1)](https://www.youtube.com/channel/UCr19zDWnZgm-aRRaL0LPIjA/featured?sub_confirmation=1?sub_confirmation=1)
+[![youtube1](https://img.shields.io/website?label=adityatprtma&logo=youtube&logoColor=%23ff0000%20&style=for-the-badge&up_message=1k&url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCr19zDWnZgm-aRRaL0LPIjA%2Ffeatured%3Fsub_confirmation%3D1%3Fsub_confirmation%3D1)](https://www.youtube.com/channel/UCr19zDWnZgm-aRRaL0LPIjA/featured?sub_confirmation=1?sub_confirmation=1)
 
 ## I'm a Developer Mobile, Mobile Design, UI/Visual Design, UX Design/Research!!
 

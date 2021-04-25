@@ -1,7 +1,7 @@
 ### Hallo, I'm [Adityatprtma][website] 👋
 
 [![Website](https://img.shields.io/website?label=adityatprtma.com&style=flat-square&up_message=UP&url=https%3A%2F%2Flinktr.ee%2FAdityatprtma)](https://linktr.ee/Adityatprtma)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![youtube1](https://img.shields.io/website?label=adityatprtma&logo=youtube&logoColor=%23ff0000%20&up_message=12k&url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCr19zDWnZgm-aRRaL0LPIjA%2Ffeatured%3Fsub_confirmation%3D1%3Fsub_confirmation%3D1)](https://www.youtube.com/channel/UCr19zDWnZgm-aRRaL0LPIjA/featured?sub_confirmation=1?sub_confirmation=1)
 
 ## I'm a Husband, Father, Developer, and Teacher!!
 

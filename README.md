@@ -12,7 +12,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Playlist: adityatprtma" width="350" />](https://open.spotify.com/user/5BoApeZ2BiGCRVRh5f187z)
+[<img src="https://adityatprtma-adityatprtma.vercel.app/api/spotify-playing" alt="Playlist: adityatprtma" width="350" />](https://open.spotify.com/user/5BoApeZ2BiGCRVRh5f187z)
 
 [website]: https://linktr.ee/Adityatprtma
 [youtube1]: https://www.youtube.com/channel/UCr19zDWnZgm-aRRaL0LPIjA/featured?sub_confirmation=1?sub_confirmation=1

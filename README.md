@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=adityatprtma&logoColor=%20&style=for-the-badge&up_message=UP&url=https%3A%2F%2Flinktr.ee%2FAdityatprtma)](https://linktr.ee/Adityatprtma)
 [![youtube1](https://img.shields.io/website?color=%23ff0000%20&label=%20adityatprtma&logo=youtube&logoColor=%23ff0000%20&style=for-the-badge&up_message=1k&url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCr19zDWnZgm-aRRaL0LPIjA%2Ffeatured%3Fsub_confirmation%3D1%3Fsub_confirmation%3D1)](https://www.youtube.com/channel/UCr19zDWnZgm-aRRaL0LPIjA/featured?sub_confirmation=1?sub_confirmation=1)
 
-https://camo.githubusercontent.com/823822df4639299e2725baf47d3601944c93d8c36c3f3d12b3153095573a9f70/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f5262444b61637a71576f76497567794a6d572f67697068792e676966
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
 
 ## I'm a Developer Mobile, Mobile Design, UI/Visual Design, UX Design/Research!!
 

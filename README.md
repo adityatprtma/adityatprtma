@@ -7,7 +7,7 @@
 
 ## I'm a Developer Mobile, Mobile Design, UI/Visual Design, UX Design/Research!!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and drink a cup of hot Vietnamese coffee
